@@ -1,4 +1,4 @@
-This boilerplate is cloned from  [](ruanyf/react-babel-webpack-boilerplate)
+This boilerplate is cloned from  [here](ruanyf/react-babel-webpack-boilerplate)
 remove the .jshint configure.
 
 
